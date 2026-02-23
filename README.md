@@ -8,7 +8,7 @@ Built using **Python, Scikit-learn, and Streamlit**, and deployed online for rea
 ## 🔗 Live Demo
 
 👉 Try the deployed web app here:
-**[(https://titanic-survival-analysis-by-saikat-pradhan.streamlit.app/)]**
+**https://titanic-survival-analysis-by-saikat-pradhan.streamlit.app/**
 
 ---
 
@@ -50,8 +50,8 @@ Users provide passenger details through an interactive web interface, and the tr
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/your-username/Titanic-Survival-Analysis.git
+cd Titanic-Survival-Analysis
 ```
 
 ### 2️⃣ Install Dependencies
