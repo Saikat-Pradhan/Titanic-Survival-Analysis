@@ -1,5 +1,14 @@
 # 🚢 Titanic Survival Prediction Web App
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-MachineLearning-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-DataAnalysis-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-NumericalComputing-blue?logo=numpy)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Classification](https://img.shields.io/badge/Model-Classification-yellow)
+![Deployment](https://img.shields.io/badge/Deployment-StreamlitCloud-success)
+
 A smart **Machine Learning–based web application** that predicts whether a passenger would survive the Titanic disaster based on important passenger details.
 Built using **Python, Scikit-learn, and Streamlit**, and deployed online for real-time predictions.
 
